@@ -118,19 +118,3 @@ h1{
 .sub-cal{
     color:rgb(47, 72, 88);
 }
-
-@media(max-width:400px){
-    ul{
-        gap: 2px;
-    }
-    main{
-        display: block;
-    }
-    .sandwich img{
-        width: 350px;
-
-    }
-    .texto{
-        width: 100px;
-    }
-}
